@@ -1,2 +1,2 @@
-# hello_test
+# cy2550
 Setting Up Git
